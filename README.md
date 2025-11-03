@@ -6,7 +6,7 @@
 <p align="left">
   email: a.terranova@ed.ac.uk | website: <a href="https://terrales.github.io">terrales.github.io</a>  
   <br>
-   <a href="https://https://scholar.google.com/citations?user=GFD0sp0AAAAJ">Google Scholar</a> | 
+   <a href="https://scholar.google.com/citations?user=GFD0sp0AAAAJ">Google Scholar</a> | 
   <a href="https://github.com/terrales">GitHub</a>
 </p>
 
