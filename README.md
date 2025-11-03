@@ -1,6 +1,7 @@
+
 <p align="left" style="display: flex; align-items: center;">
-  <img src="IMG_0755 2.HEIC" alt="Ale in a lake somewhere" 
-       style="width: 80px; height: auto; margin-right: 10px; border-radius: 5px;">
+  <img src="IMG_0755 2.HEIC" alt="Me in a lake somewhere" 
+       style="width: 120px; height: 120px; border-radius: 50%; margin-right: 15px; object-fit: cover;">
   <span>
     <strong>PhD Student</strong><br>
     UKRI Centre for Doctoral Training in Designing Responsible NLP, The University of Edinburgh  
