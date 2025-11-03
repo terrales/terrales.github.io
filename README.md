@@ -5,16 +5,13 @@
   <span>
     <strong>PhD Student</strong><br>
     UKRI Centre for Doctoral Training in Designing Responsible NLP, The University of Edinburgh  
+    email: a.terranova@ed.ac.uk | website: <a href="https://terrales.github.io">terrales.github.io</a>  
+    <br>
+     <a href="https://scholar.google.com/citations?user=GFD0sp0AAAAJ">Google Scholar</a> | 
+    <a href="https://github.com/terrales">GitHub</a>
   </span>
 </p>
 
-
-<p align="left">
-  email: a.terranova@ed.ac.uk | website: <a href="https://terrales.github.io">terrales.github.io</a>  
-  <br>
-   <a href="https://scholar.google.com/citations?user=GFD0sp0AAAAJ">Google Scholar</a> | 
-  <a href="https://github.com/terrales">GitHub</a>
-</p>
 
 ## About Me
 
