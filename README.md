@@ -1,4 +1,5 @@
 <p align="left">
+  <img src="IMG_0755 2.HEIC" alt="Ale in a lake somewhere">
   <strong>PhD Student</strong><br>
   UKRI Centre for Doctoral Training in Designing Responsible NLP, The University of Edinburgh  
 </p>
