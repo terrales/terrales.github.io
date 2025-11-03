@@ -1,7 +1,7 @@
 
 <p align="left" style="display: flex; align-items: center;">
   <img src="IMG_0755 2.HEIC" alt="Me in a lake somewhere" 
-       style="width: 120px; height: 120px; 50%; margin-right: 15px; object-fit: cover; object-position: center 30%;">
+       style="width: 140px; height: 140px; 50%; margin-right: 15px; object-fit: cover; object-position: center;">
   <span>
     <strong>PhD Student</strong><br>
     UKRI Centre for Doctoral Training in Designing Responsible NLP, The University of Edinburgh  
