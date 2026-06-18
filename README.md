@@ -1,6 +1,6 @@
 
 <p align="left" style="display: flex; align-items: center;">
-  <img src="IMG_0755 2.HEIC" alt="Me in a lake somewhere" 
+  <img src="me_in_bolo.JPG" alt="Me at a cafe in Bologna a while ago" 
        style="width: 170px; height: 170px; 50%; margin-right: 15px; object-fit: cover; object-position: center;">
   <span>
     <strong>PhD Student</strong><br>
