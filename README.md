@@ -21,10 +21,10 @@ Hi there! I am a first-year PhD student at the University of Edinburgh, funded b
 
 ## Publications
 * **SMASH at SemEval-2026 Task 9: Detecting Multilingual Polarisation with Encoder Ensembles and Calibrated Decision Thresholds**
-  Z. Bokaei$ ^\\star $, A. Terranova$ ^\\star $, Y. Zheng$ ^\\star $, T. Bidewell, B. Ross
-  *Accepted at SemEval-2026* (link upcoming)
+  Z. Bokaei<sup>⋆</sup>, A. Terranova<sup>⋆</sup>, Y. Zheng<sup>⋆</sup>, T. Bidewell, B. Ross
+  *Accepted at SemEval-2026* (upcoming)
 
 * **Evaluating Long-Term Memory for Long-Context Question Answering**
   A. Terranova, B. Ross, A. Birch
-  *Accepted at Europe 2025 workshop on Metacognition in Generative AI* | [arXiv:2510.23730](https://arxiv.org/abs/2510.23730)
+  *Accepted at EurIPS 2025 workshop on <a href="[https://scholar.google.com/citations?user=GFD0sp0AAAAJ](https://sites.google.com/view/metacognitiongenai)">Metacognition in Generative AI</a>* | [arXiv:2510.23730](https://arxiv.org/abs/2510.23730)
 
