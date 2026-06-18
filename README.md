@@ -2,7 +2,6 @@
   <img src="me_in_bolo.JPG" alt="Me at a cafe in Bologna a while ago" 
        style="width: 170px; height: 170px; border-radius: 50%; margin-right: 15px; object-fit: cover; object-position: center;">
   <div>
-    <strong>Alessandra Terranova</strong><br>
     <strong>PhD Student</strong><br>
     UKRI Centre for Doctoral Training in Designing Responsible NLP, The University of Edinburgh<br>
     email: a.terranova@ed.ac.uk<br>
